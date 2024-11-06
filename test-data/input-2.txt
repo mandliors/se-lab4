@@ -1,0 +1,3 @@
+# If one is empty, does it fire from the other?
+GT4500,0,0,1,0
+TORPEDO,SINGLE
