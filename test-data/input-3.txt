@@ -1,0 +1,4 @@
+# In case of failure, does not fire from the other
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
